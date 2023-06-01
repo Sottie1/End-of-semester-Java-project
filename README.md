@@ -23,9 +23,9 @@ Using AWT, Swing components, Java Database Connectivity and XAMPP, design and im
    - Course title:
    - Academic year:
 
-![Database output](Database.png) Schema
+![Database output](Database.png) <br> Schema
 
-![form](form.png) Registration form
+![form](form.png) <br> Registration form
    
 
 
