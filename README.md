@@ -1,5 +1,5 @@
 # End-of-semester-Java-project
-![Interphase](Interphase.png) Interface
+![Interphase](Interphase.png) <br> Interface
 
 ## THE BUILD APPROACH 
 The executives of Java Ambassadors Club have contracted your group to design and implement a standalone Club Membership Application.
